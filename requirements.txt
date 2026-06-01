@@ -1,0 +1,10 @@
+pandas
+functools
+numpy
+gpboost
+scikit-learn
+matplotlib
+pymer4
+great-tables
+polars
+scipy
